@@ -1,0 +1,9 @@
+﻿Issue Type,Summary,Description,Priority,Story Points,Sprint
+Epic,Item Reporting & Automated Tagging,End-to-end capture of lost and found listings with automated tag generation.,High,,
+Epic,Proximity Matching & Verification Engine,Intelligent geo-proximity matching and anti-fraud proof of ownership verification.,High,,
+Epic,Community Administration & Moderation,Administrative workflows for report approval rejection and dispute handling.,Medium,,
+Story,US-01: Create Lost and Found Reports,"As a Finder or Owner, I want to log a detailed Lost or Found item report with item characteristics, date, location, and optional photos, so that the item is catalogued on the network for matching.",High,5,CLFMN Sprint 1
+Story,US-02: Automated Tag Extraction,"As a System or User, I want the system to extract keywords, category, colour, and visual attributes automatically, so that reports are indexed accurately without requiring manual exhaustive tagging.",High,5,CLFMN Sprint 1
+Story,US-03: Geo-Proximity & Attribute Matching Engine,"As a Lost Item Owner, I want the system to match my report against active Found items within a defined geographical radius, so that I am promptly alerted to high-probability matches.",High,8,CLFMN Sprint 2
+Story,US-04: Proof of Ownership Security Verification,"As an Item Finder, I want claimants to answer private security questions set by me before handover details are displayed, so that fraudulent claims are prevented and privacy is protected.",High,5,CLFMN Sprint 2
+Story,US-05: Admin Moderation & Dispute Handling,"As a Community Administrator, I want an admin console to review, approve, reject reports, and arbitrate contested claims, so that the network remains safe, accurate, and free of spam.",Medium,3,CLFMN Sprint 2
